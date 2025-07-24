@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Chandan16-dev/Chandan16-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi, I'm Chandan Kumar 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm someone who likes to keep it simple — but sharp.  
+Right now, I'm diving deeper into code, logic, and real problem-solving.
+
+---
+
+🧠 What I'm into:
+- Writing clean code (C, Python, Git)
+- Learning by building (projects, not just plans)
+- Keeping things minimal and real
+
+🛠️ Currently exploring:
+- Core electronics + logic
+- Version control, open source basics
+- Systems that *actually* work
+
+---
+
+> No noise. Just progress.
