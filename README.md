@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### I'm Chandan Kumar 👋
+### I'm Chandan 👋
 
 I'm someone who likes to keep it simple — but sharp.  
 Right now, I'm diving deeper into code, logic, and real problem-solving.
